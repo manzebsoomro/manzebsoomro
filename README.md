@@ -24,6 +24,7 @@ Currently, I am pursuing an **M.Sc. in Computer & Systems Engineering at Technis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
@@ -111,7 +112,6 @@ A secure full-stack web application for managing patient data, scheduling, billi
 
 ## GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ![Manzeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzebsoomro&show_icons=true&theme=default&hide_border=true)
 
